@@ -3,7 +3,7 @@
     "description": "Tesseract as a web service",
     "type": "project",
     "require": {
-        "php": "^7.3 || ^7.4",
+        "php": ">=7.3",
         "islandora/crayfish-commons": "^2",
         "silex/silex": "^2.0"
     },
@@ -45,6 +45,6 @@
         "symfony/css-selector": "^3.0",
         "phpunit/phpunit": "^9.0",
         "squizlabs/php_codesniffer": "^3.0",
-        "sebastian/phpcpd": "6.0"
+        "sebastian/phpcpd": "^6.0"
     }
 }

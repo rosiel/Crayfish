@@ -3,7 +3,7 @@
     "description": "Microservice that puts Drupal content in Fedora",
     "type": "project",
     "require": {
-        "php": "^7.3 || ^7.4",
+        "php": ">=7.3",
         "islandora/crayfish-commons": "^2",
         "silex/silex": "^2.0"
     },
