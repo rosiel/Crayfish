@@ -10,3 +10,9 @@ syn-settings.xml
 clover.xml
 .php_cs.cache
 .phpunit.result.cache
+CrayFits/.env.local
+CrayFits/.env.local.php
+CrayFits/.env.*.local
+CrayFits/public/bundles/
+CrayFits/var/
+CrayFits/.web-server-pid
